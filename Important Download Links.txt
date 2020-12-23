@@ -1,0 +1,20 @@
+Important Download Links
+
+Kali Linux download links:
+
+64 Bit Version: https://drive.google.com/open?id=1pJrSknW0X0nkFFWYsaA37EqN9NA9Fsdd
+
+64 Bit Alternative: https://drive.google.com/open?id=1FOAc36AAKloD57XMpzW0FciIzCtVAcgQ
+
+64 Bit Alternative - 2 : https://yadi.sk/d/Zp2TKnyXJo3rxg
+
+32 Bit Version: https://drive.google.com/open?id=1V5403ph9_LmAxhkWjMVszj9x-GxcQVzz
+
+
+Windows VM download link:
+
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+
+A link for Mitmf GitHub page:
+
+https://github.com/byt3bl33d3r/MITMf/wiki/Installation 
